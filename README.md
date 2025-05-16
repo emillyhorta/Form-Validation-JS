@@ -14,32 +14,37 @@ Feedback visual em tempo real para os usuários
 Prevenção de envio com dados inválidos
 
 📁 Estrutura
+
 css
 Copy
 Edit
+
 📦 form-validation-js
+
 ├── index.html
 ├── style.css
 └── script.js
+
 🛠 Tecnologias utilizadas
-HTML5
 
-CSS3
+1.HTML5
 
-JavaScript (Vanilla JS)
+2.CSS3
+
+3.JavaScript (Vanilla JS)
 
 💡 Como usar
+
 Clone o repositório:
 
-bash
-Copy
-Edit
 git clone https://github.com/seu-usuario/form-validation-js.git
+
 Abra o index.html em seu navegador.
 
 Teste a validação preenchendo o formulário com diferentes tipos de dados.
 
 ✏️ Exemplo de validação
+
 javascript
 Copy
 Edit
@@ -50,6 +55,7 @@ function validarEmail(email) {
 A lógica pode ser facilmente adaptada para outras necessidades e formatos.
 
 📌 Observações
+
 O projeto não depende de bibliotecas externas.
 
 Ideal para quem está aprendendo JavaScript e quer entender como validar formulários na prática.
