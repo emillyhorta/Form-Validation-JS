@@ -45,13 +45,11 @@ Teste a validação preenchendo o formulário com diferentes tipos de dados.
 
 ✏️ Exemplo de validação
 
-javascript
-Copy
-Edit
 function validarEmail(email) {
   const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   return regex.test(email);
 }
+
 A lógica pode ser facilmente adaptada para outras necessidades e formatos.
 
 📌 Observações
